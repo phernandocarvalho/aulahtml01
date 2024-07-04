@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+
+
+h1  {
+ color:#4ba7f3;
+ font-family: "Playwrite US Modern", cursive;
+ font-family: "Questrial", sans-serif;
+ font-size: 40;
+}
+
+nav {
+    color:#e7eeee3a
+    font-family: "Questrial", sans-serif;
+    font-size: 20px;
+    background-color: white; 
+
+}
+
+h2 {
+    color:#cd5c5c
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: #585757;
+    color: #fcfcfc;
+    font-family: "Questrial", sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    padding: 2rem;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
