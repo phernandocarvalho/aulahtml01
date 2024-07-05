@@ -4,7 +4,7 @@
 
 
 h1  {
- color:#4ba7f3;
+ color:#f34b61;
  font-family: "Playwrite US Modern", cursive;
  font-family: "Questrial", sans-serif;
  font-size: 40;
@@ -15,7 +15,7 @@ nav {
     font-family: "Questrial", sans-serif;
     font-size: 20px;
     background-color: white; 
-
+    padding: 25px 25px 25px 25px;
 }
 
 h2 {
@@ -33,6 +33,7 @@ header {
     color: #ffffff;
     text-align: center;
     padding: 10px;
+    
 }
 
 footer {
@@ -52,3 +53,13 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+.flex-container {
+    display: flex;
+    height: 300
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+    
